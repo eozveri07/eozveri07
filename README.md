@@ -49,7 +49,14 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-[![Monitor Stats](https://monitor.erenozveri.com/)]
+## 🖱️ My Activity
+
+<div align="center">
+  <a href="https://monitor.erenozveri.com">
+    <img src="https://monitor.erenozveri.com/api/stats/screenshot" alt="My Coding Activity" width="700" />
+  </a>
+  <p><em>✨ <a href="https://monitor.erenozveri.com">Click here</a> to see my live activity dashboard ✨</em></p>
+</div>
 
 ## 📊 GitHub Stats
 

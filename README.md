@@ -14,9 +14,6 @@
   <a href="https://linkedin.com/in/eozveri07">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/eozveri07">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 <h3 align="center">🚀 Areas of Expertise</h3>
@@ -53,9 +50,8 @@
 
 <div align="center">
   <a href="https://monitor.erenozveri.com">
-    <img src="https://monitor.erenozveri.com/api/stats/screenshot" alt="My Coding Activity" width="700" />
+    <img src="https://monitor.erenozveri.com/api/stats/gif" alt="My Coding Activity" width="700" />
   </a>
-  <p><em>✨ <a href="https://monitor.erenozveri.com">Click here</a> to see my live activity dashboard ✨</em></p>
 </div>
 
 ## 📊 GitHub Stats

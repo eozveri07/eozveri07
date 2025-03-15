@@ -50,7 +50,7 @@
 
 <div align="center">
   <a href="https://monitor.erenozveri.com">
-    <img src="https://monitor.erenozveri.com/api/stats/gif" alt="My Coding Activity" width="700" />
+    <img src="https://monitor.erenozveri.com/eren.gif" alt="My Coding Activity" width="700" />
   </a>
 </div>
 

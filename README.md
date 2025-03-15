@@ -49,6 +49,19 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
+## 🖱️ My Activity
+
+<div align="center">
+  <a href="https://monitor.erenozveri.com">
+    <img src="https://img.shields.io/endpoint?url=https://monitor.erenozveri.com/api/stats/badge/left_clicks&style=for-the-badge&label=Left%20Clicks&color=blue" alt="Left Clicks"/>
+    <img src="https://img.shields.io/endpoint?url=https://monitor.erenozveri.com/api/stats/badge/right_clicks&style=for-the-badge&label=Right%20Clicks&color=green" alt="Right Clicks"/>
+    <img src="https://img.shields.io/endpoint?url=https://monitor.erenozveri.com/api/stats/badge/middle_clicks&style=for-the-badge&label=Middle%20Clicks&color=yellow" alt="Middle Clicks"/>
+    <img src="https://img.shields.io/endpoint?url=https://monitor.erenozveri.com/api/stats/badge/keypresses&style=for-the-badge&label=Keypresses&color=red" alt="Keypresses"/>
+    <img src="https://img.shields.io/endpoint?url=https://monitor.erenozveri.com/api/stats/badge/mouse_movement&style=for-the-badge&label=Mouse%20Movement&color=purple" alt="Mouse Movement"/>
+  </a>
+  <p><em>Live data from <a href="https://monitor.erenozveri.com">my activity monitor</a></em></p>
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">

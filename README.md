@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">Expert in Modern Web Technologies & Digital Transformation</h3>
 
-
-
 <p align="center">
-  <em>I aim to add value to my clients by reflecting my passion for technology and continuous learning in every project. Transforming complex problems into simple and effective solutions is my passion.</em>
+  <em>Driven by a passion for technology and continuous learning, I deliver impactful solutions by simplifying complex problems, dedicated to adding client value.</em>
 </p>
 
 <p align="center">
@@ -46,19 +44,19 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eozveri07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eozveri07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+</div>
+
 ## 🖱️ My Activity
 
 <div align="center">
   <a href="https://monitor.erenozveri.com">
     <img src="https://monitor.erenozveri.com/eren.gif" alt="My Coding Activity" width="700" />
   </a>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eozveri07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eozveri07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 <p align="center">

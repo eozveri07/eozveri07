@@ -51,13 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eozveri07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
-## 🖱️ My Activity
 
-<div align="center">
-  <a href="https://monitor.erenozveri.com">
-    <img src="https://monitor.erenozveri.com/eren.gif" alt="My Coding Activity" width="700" />
-  </a>
-</div>
 
 <p align="center">
   <a href="https://fenrio.com">
